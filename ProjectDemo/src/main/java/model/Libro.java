@@ -1,5 +1,5 @@
 package model;
 
-public class Autor {
+public class Libro {
 
 }
